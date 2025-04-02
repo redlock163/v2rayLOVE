@@ -38,3 +38,17 @@ python3 get_os_and_modules.py
 python3 install_tkinter.py
 ```
 
+### 4. Start V2Ray
+```bash
+python3 1.py
+```
+
+#### Additional Setup:
+1. Open the V2Ray GUI.
+2. Set the subscript link (if applicable).
+3. Click "Update."
+4. Enable "Proxy" and "Autostart."
+5. Reboot the system:
+   ```bash
+   sudo reboot
+   ```
